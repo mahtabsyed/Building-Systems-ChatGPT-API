@@ -6,3 +6,4 @@ markdown
 panel
 jupyter_bokeh
 tiktoken
+panel
